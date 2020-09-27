@@ -1,0 +1,10 @@
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\bin\Debug\RandomProjectile.exe.config
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\bin\Debug\RandomProjectile.exe
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\bin\Debug\RandomProjectile.pdb
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\obj\Debug\RandomProjectile.csprojAssemblyReference.cache
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\obj\Debug\RandomProjectile.Form1.resources
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\obj\Debug\RandomProjectile.Properties.Resources.resources
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\obj\Debug\RandomProjectile.csproj.GenerateResource.cache
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\obj\Debug\RandomProjectile.csproj.CoreCompileInputs.cache
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\obj\Debug\RandomProjectile.exe
+W:\Programming\Programs\Unsorted\RandomProjectile\RandomProjectile\obj\Debug\RandomProjectile.pdb
